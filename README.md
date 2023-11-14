@@ -15,7 +15,7 @@ Guessing games are always entertaining, and this simple Python program brings th
 🖥️ How to Use:
 1. Clone or download the repository to your local machine. 
 2. Open the project in your preferred Python IDE or editor. 🆕
-3. Run the Python file named "number_guesser.py".
+3. Run the Python file named "numberguess.py".
 4. Follow the instructions displayed in the console to start guessing numbers. 🎮
 
 🌟 It's time to put your guessing skills to the test! Install Python and give this simple number guesser a try. Challenge your friends or simply relax by playing alone. Happy guessing! 🌟
